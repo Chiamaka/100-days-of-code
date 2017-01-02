@@ -3,7 +3,7 @@
 **Today's Update**: Flexbox working using [Flexbox Patterns](http://www.flexboxpatterns.com/home) and some vanilla JavaScript for interaction.
 
 ##Day 2: January 1 2017
-
+**Task**: Read JavaScript Allonge for 1 hour.
 **Learnings**:
 1. Arrays are reference types so 
     ```const a = [], b = x;
@@ -22,4 +22,15 @@
 ```
 4. Recursive algorithms follow the 'divide and conquer' strategy for problem solving.
 5. Note to self; think of `...` in spreading as removing the [] from the passed array to reveal its true nature.
-    
+
+##Day 3: January 2 2017
+**Task**: Worked through Day 07 and Day 09 of JavaScript 30. I couldn't do Day 6 cos I dont have internet connection. I am in my village, lol
+**Learnings**:
+1. `Array.prototype.some()` returns `true` if at least one element in the array meets the condition set.
+2. `console.log` can take a `{}` and it'll print out the result as an object. You can also use `console.table` takes an array of objects and prints it out in a tabular form.
+3. `Array.prototype.every()` returns `true` if all the elements in an array meets the condition set else it returns `false`
+4. `Array.prototype.find()` returns the 1st element in an array to meet the condition.
+5. `Array.prototype.findIndex()` returns the index of the 1st element that meets the specified condition
+6. `Array.prototype.splice()` can be used to delete an element from an array.
+7. `console.assert` takes the condition and the string to be displayed if and only if the condition is wrong/false. eg `console.assert(1===2, 'That is very wrong')`. This fires only when it is false. If it is true, nothing happens
+8. `console.dir` prints all the properties and methods on a selected DOM Element 
