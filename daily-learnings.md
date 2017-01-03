@@ -15,11 +15,11 @@
     ``` will return false
 2. New way to extract elements from an array. **Destructuring**. Its a reversal of the usual array literal creation method. Place the template on the left and the array to be picked apart as the value on the right.
 3. Extracting arrays from arrays is known as gathering. Using `...` to destructure is gathering, using it in a literal to insert elements is called spreading.
-```
-    const array = [1,2,3,4,5]
-    const [a, ...rest] = array; //gathering
-    const spread = ['0', ...array]; //spreading
-```
+    ```
+        const array = [1,2,3,4,5]
+        const [a, ...rest] = array; //gathering
+        const spread = ['0', ...array]; //spreading
+    ```
 4. Recursive algorithms follow the 'divide and conquer' strategy for problem solving.
 5. Note to self; think of `...` in spreading as removing the [] from the passed array to reveal its true nature.
 
@@ -39,9 +39,8 @@
 **Task**: Worked through Day 06 of JavaScript 30.
 **Learnings**: 
 1. `fetch` api. It returns a promise with a blob of data. Because its a promise, you have to use `.then` to get the results.
-2. Template literal in ES6 can be used to create an html structure to be injected into a selected area. eg ```
-	 return `
-        <li>${band}</li>
-    `;
-```
+2. Template literal in ES6 can be used to create an html structure to be injected into a selected area. eg 
+    ```
+         return `<li>${band}</li>`;
+    ```
 3. Regular expressions and template string literals are very powerful!
