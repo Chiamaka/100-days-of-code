@@ -33,4 +33,15 @@
 5. `Array.prototype.findIndex()` returns the index of the 1st element that meets the specified condition
 6. `Array.prototype.splice()` can be used to delete an element from an array.
 7. `console.assert` takes the condition and the string to be displayed if and only if the condition is wrong/false. eg `console.assert(1===2, 'That is very wrong')`. This fires only when it is false. If it is true, nothing happens
-8. `console.dir` prints all the properties and methods on a selected DOM Element 
+8. `console.dir` prints all the properties and methods on a selected DOM Element
+
+##Day 4: January 3 2017
+**Task**: Worked through Day 06 of JavaScript 30.
+**Learnings**: 
+1. `fetch` api. It returns a promise with a blob of data. Because its a promise, you have to use `.then` to get the results.
+2. Template literal in ES6 can be used to create an html structure to be injected into a selected area. eg ```
+	 return `
+        <li>${band}</li>
+    `;
+```
+3. Regular expressions and template string literals are very powerful!
