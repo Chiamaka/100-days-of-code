@@ -5,7 +5,7 @@
 ##Day 2: January 1 2017
 **Task**: Read JavaScript Allonge for 1 hour.  
 **Learnings**:  
-1.  Arrays are reference types so 
+1.  Arrays are reference types so  
     ```const a = [], b = x;
         a === b
     ``` will return `true` AND
@@ -14,7 +14,7 @@
         a===b
     ``` will return `false`  
 2.  New way to extract elements from an array. **Destructuring**. Its a reversal of the usual array literal creation method. Place the template on the left and the array to be picked apart as the value on the right.  
-3.  Extracting arrays from arrays is known as gathering. Using `...` to destructure is gathering, using it in a literal to insert elements is called spreading.
+3.  Extracting arrays from arrays is known as gathering. Using `...` to destructure is gathering, using it in a literal to insert elements is called spreading.  
     ```
         const array = [1,2,3,4,5]
         const [a, ...rest] = array; //gathering
@@ -41,7 +41,7 @@
 **Task**: Worked through Day 06 of JavaScript 30.  
 **Learnings**:  
 1. `fetch` api. It returns a promise with a blob of data. Because its a promise, you have to use `.then` to get the results.  
-2. Template literal in ES6 can be used to create an html structure to be injected into a selected area. eg
+2. Template literal in ES6 can be used to create an html structure to be injected into a selected area. eg  
     ```
          return `<li>${band}</li>`;
     ```  
