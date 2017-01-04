@@ -7,14 +7,17 @@
 
 
 **Learnings**:
+
+
 1.  Arrays are reference types so 
+    
     ```const a = [], b = x;
         a === b
-    ``` will return true AND
+    ``` will return `true` AND
     ```
         const a = [1,1+1], b = [1,2];
         a===b
-    ``` will return false
+    ``` will return `false`  
 2.  New way to extract elements from an array. **Destructuring**. Its a reversal of the usual array literal creation method. Place the template on the left and the array to be picked apart as the value on the right.
 3.  Extracting arrays from arrays is known as gathering. Using `...` to destructure is gathering, using it in a literal to insert elements is called spreading.
     ```
@@ -27,7 +30,11 @@
 
 ##Day 3: January 2 2017
 **Task**: Worked through Day 07 and Day 09 of JavaScript 30. I couldn't do Day 6 cos I dont have internet connection. I am in my village, lol
+
+
 **Learnings**:
+
+
 1.  `Array.prototype.some()` returns `true` if at least one element in the array meets the condition set.
 2. `console.log` can take a `{}` and it'll print out the result as an object. You can also use `console.table` takes an array of objects and prints it out in a tabular form.
 3. `Array.prototype.every()` returns `true` if all the elements in an array meets the condition set else it returns `false`
