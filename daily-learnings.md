@@ -57,10 +57,10 @@ Until tomorrow. Kisses
 **Feeling**: My confidence level is growing really well. I'm excited about that
 
 ##January 5 2017
-**Update**: I traveled back to Lagos. Plus I am sick. I did try to put in an hour but I physically and mentally couldn't. I remember opening my book(where I think) and opening the challenge on FCC and sleeping less than 2 minutes later. LOL. I tweeted that I couldn't do it due to my sickness. 
+**Update**: I traveled back to Lagos. Plus I am sick. I did try to put in an hour but I physically and mentally couldn't. I remember opening my book(where I think) and opening the challenge on FCC and sleeping less than 2 minutes later. LOL. I tweeted that I couldn't do it due to my sickness.
 
-##Day 6: January 5 2017
-**Task**: Tried to solve the Exact Change challenge on FCC. I had no idea what the question was asking me to do so I posted about it in my slack group chat and moved on to the next challenge which was Inventory Change.   
+##Day 6: January 6 2017
+**Task**: Tried to solve the Exact Change challenge on FCC. I had no idea what the question was asking me to do so I posted about it in my slack group chat and moved on to the next challenge which was [Inventory Change](https://github.com/Chiamaka/Freecodecamp/blob/master/advancedAlgos/Inventory%20Update.js).   
 **Learnings**:  
 I have no particular learnings per say. The most important thing today was that I solved the challenge in a functional style. I used functional programming precepts in JS and tackled the problem. I wanted to do something different from my normal imperative programming style. It wasnt easy to wrap my head around but ooh boy, my code is so much compact and cleaner after taking this approach. Best part is my boyfriend said the shit was impressive. Hahaha. He is a really good programmer too. We learn from each other.  
-**Feeling**: I feel like i'm on cloud 9. I am elated. It feels good to conquer and do so in style.
+**Feeling**: I feel like I'm on cloud 9. I am elated. It feels good to conquer and do so in style.
