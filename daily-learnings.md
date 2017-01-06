@@ -8,15 +8,14 @@
 1.  Arrays are reference types so  
     ```const a = [], b = x;
         a === b
-    ``` will return `true` AND
     ```
-        const a = [1,1+1], b = [1,2];
+    will return `true` AND
+    ```const a = [1,1+1], b = [1,2];
         a===b
     ``` will return `false`  
-2.  New way to extract elements from an array. **Destructuring**. Its a reversal of the usual array literal creation method. Place the template on the left and the array to be picked apart as the value on the right.  
+2.  New way to extract elements from an array. **Destructuring**. Its a reversal of the usual array literal creation method. Place the template on the left and the array to be picked apart as the value on the right.   
 3.  Extracting arrays from arrays is known as gathering. Using `...` to destructure is gathering, using it in a literal to insert elements is called spreading.  
-    ```
-        const array = [1,2,3,4,5]
+    ```const array = [1,2,3,4,5]
         const [a, ...rest] = array; //gathering
         const spread = ['0', ...array]; //spreading
     ```  
@@ -51,8 +50,17 @@
 **Task**: Solved an advanced algorithm in FCC, Symmetric Difference  
 **Learning**:  
 It was hard as fuck at first. The style I wanted to use in solving it was crazy so after 30 minutes of banging my head against a brick wall, I decided to search for help.
-I found a link to a codepen solution, copied it and went through it line for line to understand the logic behind the solution. After getting a basic understanding of it, 
+I found a link to a codepen solution, copied it and went through it line for line to understand the logic behind the solution. After getting a basic understanding of it,
 I went to work on my own. I crafted two different solutions. [Symmetric Difference 1](https://github.com/Chiamaka/Freecodecamp/blob/master/advancedAlgos/Symmetric%20Difference.js) [Symmetric Difference 2](https://github.com/Chiamaka/Freecodecamp/blob/master/advancedAlgos/Symmetric%20Difference%202.js)
 I also went past an hour today. I really wanted to have this in the bag. I spent 2+ hours solving this.
 Until tomorrow. Kisses  
 **Feeling**: My confidence level is growing really well. I'm excited about that
+
+##January 5 2017
+**Update**: I traveled back to Lagos. Plus I am sick. I did try to put in an hour but I physically and mentally couldn't. I remember opening my book(where I think) and opening the challenge on FCC and sleeping less than 2 minutes later. LOL. I tweeted that I couldn't do it due to my sickness. 
+
+##Day 6: January 5 2017
+**Task**: Tried to solve the Exact Change challenge on FCC. I had no idea what the question was asking me to do so I posted about it in my slack group chat and moved on to the next challenge which was Inventory Change.   
+**Learnings**:  
+I have no particular learnings per say. The most important thing today was that I solved the challenge in a functional style. I used functional programming precepts in JS and tackled the problem. I wanted to do something different from my normal imperative programming style. It wasnt easy to wrap my head around but ooh boy, my code is so much compact and cleaner after taking this approach. Best part is my boyfriend said the shit was impressive. Hahaha. He is a really good programmer too. We learn from each other.  
+**Feeling**: I feel like i'm on cloud 9. I am elated. It feels good to conquer and do so in style.
