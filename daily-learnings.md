@@ -64,3 +64,7 @@ Until tomorrow. Kisses
 **Learnings**:  
 I have no particular learnings per say. The most important thing today was that I solved the challenge in a functional style. I used functional programming precepts in JS and tackled the problem. I wanted to do something different from my normal imperative programming style. It wasnt easy to wrap my head around but ooh boy, my code is so much compact and cleaner after taking this approach. Best part is my boyfriend said the shit was impressive. Hahaha. He is a really good programmer too. We learn from each other.  
 **Feeling**: I feel like I'm on cloud 9. I am elated. It feels good to conquer and do so in style.
+
+##Day 7: January 7 2017
+**Task**: Did the Fun with Canvas of #JavaScript30.  
+**Learnings**: I learnt about the `canvas`, context `cxt` which is where the drawing on the canvas happens, [hsl color range](http://mothereffinghsl.com/). Honestly, I wasn't into today's exercise. It was boring to me but I pulled through so he is cheers to me!!  
