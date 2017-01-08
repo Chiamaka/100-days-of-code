@@ -6,8 +6,9 @@
 **Task**: Read JavaScript Allonge for 1 hour.  
 **Learnings**:  
 1.  Arrays are reference types so  
-    ```const a = [], b = x;
-        a === b
+    ```javascript
+    const a = [], b = x;
+    a === b
     ```
     will return `true` AND
     ```const a = [1,1+1], b = [1,2];
@@ -62,7 +63,7 @@ Until tomorrow. Kisses
 ##Day 6: January 6 2017
 **Task**: Tried to solve the Exact Change challenge on FCC. I had no idea what the question was asking me to do so I posted about it in my slack group chat and moved on to the next challenge which was [Inventory Change](https://github.com/Chiamaka/Freecodecamp/blob/master/advancedAlgos/Inventory%20Update.js).   
 **Learnings**:  
-I have no particular learnings per say. The most important thing today was that I solved the challenge in a functional style. I used functional programming precepts in JS and tackled the problem. I wanted to do something different from my normal imperative programming style. It wasnt easy to wrap my head around but ooh boy, my code is so much compact and cleaner after taking this approach. Best part is my boyfriend said the shit was impressive. Hahaha. He is a really good programmer too. We learn from each other.  
+I have no particular learnings per say. The most important thing today was that I solved the challenge in a functional style. I used functional programming precepts in JS and tackled the problem. I wanted to do something different from my normal imperative programming style. It wasn't easy to wrap my head around but ooh boy, my code is so much compact and cleaner after taking this approach. Best part is my boyfriend said the shit was impressive. Hahaha. He is a really good programmer too. We learn from each other.  
 **Feeling**: I feel like I'm on cloud 9. I am elated. It feels good to conquer and do so in style.
 
 ##Day 7: January 7 2017
