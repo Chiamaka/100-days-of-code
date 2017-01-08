@@ -6,7 +6,7 @@
 **Task**: Read JavaScript Allonge for 1 hour.  
 **Learnings**:  
 1.  Arrays are reference types so  
-    ```javascript
+    ```
     const a = [], b = x;
     a === b
     ```
