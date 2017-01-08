@@ -69,3 +69,8 @@ I have no particular learnings per say. The most important thing today was that 
 ##Day 7: January 7 2017
 **Task**: Did the Fun with Canvas of #JavaScript30.  
 **Learnings**: I learnt about the `canvas`, context `cxt` which is where the drawing on the canvas happens, [hsl color range](http://mothereffinghsl.com/). Honestly, I wasn't into today's exercise. It was boring to me but I pulled through so he is cheers to me!!  
+
+##Day 8: January 8 2017
+**Task**: Read more on functional programming in JavaScript using this [slide deck](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/)  
+**Learnings**: Functional programming is a declarative form of coding. It helps you focus on the problem domain and it's easier and more concise to read and debug.  
+**Materials**: [Gentle Intro to Funtional Javascript](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
