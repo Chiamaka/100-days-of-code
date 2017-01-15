@@ -85,3 +85,20 @@ I have no particular learnings per say. The most important thing today was that 
 1. I did a lot of flexbox stuff today. Watched alot of the [What the Flexbox](https://flexbox.io) videos.  
 2. I learnt about the `box-sizing` property today. I usually see it in people's code but I never really knew what it was about until today. When you have a box model, if you use the `width` property an element, the element actually becomes bigger than you intended for it to be. To solve this problem, `box-sizing` was introduced. I know I have encountered this problem many times so getting to understand this concept was awesome today. I used [this]('http://learnlayout.com/box-model.html')  
 **Feeling**: I kind of feel overwhelmed at the numerous things that I do not understand yet. It feels like a herculian task but I will continue going a step at a time, a day at a time. By June, I would really love to access myself and see how far I have come from the beginning of the year. My main objective for this year; **Move from the damn beginner level to Intermediate level**
+
+##Day 11: January 11 2017
+**Task**: Read about Self similarity, Linear recursion, rest params in JavaScript Allonge.  
+**Learnings**: Understood when and how recursive functions are applied. They follow the divide and conquer pattern of solving problems. Take a part of it, solve that part and stick it back into the solution. Another thing is that tail call functions are functions where the last thing that the function does is to call a single function, nothing more.  
+
+
+##Day 12: January 12 2017
+**Task**: Worked through a Udemy course on HTML5 & CSS3. Did so where I could find internet that would support watching videos online without being so noticable to the data amount.  
+**Feeling**: Being having some things in my personal life distracting me so I didnt watch for more than an hour like I would have.
+
+##January 13-14 2017
+**I didnt know anything, I just read but I still wont count it. For this reason, I have decided to deduct a day from my progress which is day 12 and redo it**
+
+##Day 12: January 15 2017
+**Task**: Redo the google mail sign in page with pure HTML and CSS.  
+**Learnings**: Been reading [Ire's Blog]('https://bitsofco.de'). I have learnt alot about meta tags, charset, viewport, css font sizes. So I decided to willingly incorporate what I have learnt from reading the blog into my code. I made use of `rem` units which is better than `em` because it uses the base font that you specified in the `html` tag. Its very great for controlling font sizes in responsive modes. I also used `flexbox` to arrange the elements on the page further consolidating my understanding of it. It really is fun and easy to use.
+**Feeling**: I feel really good. I want to up my HTML and CSS game and I believe I'm on the right track. It might seem like its trivial but repetition and continuity makes perfect.
