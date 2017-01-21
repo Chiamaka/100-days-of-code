@@ -83,7 +83,7 @@ I have no particular learnings per say. The most important thing today was that 
 **Task**: No predefined task today. I just did alot of HTML and CSS.  
 **Learnings**: Today, I realised that my HTML and CSS skills were not as bouyant as I thought they were. I have always relied on CSS frameworks like bootstrap and Semantic UI to help me out when I'm in a rot but just like when I decided to do everything with vanilla JS, I decided against using a CSS Framework and guys, it was hell. I was so upset and how little I knew CSS to be exact. It fucking sucks. In anger and pure determination, I decided to buy a course on Udemy. A course that thoroughly explains HTML5 and CSS3. This was my first time buying a course on Udemy and it cost $10 cos of the udemy promo that is ongoing. I intend to use that course to sharpen my design skills and take my frontend career to the next fucking level. No more beginner shit.  
 1. I did a lot of flexbox stuff today. Watched alot of the [What the Flexbox](https://flexbox.io) videos.  
-2. I learnt about the `box-sizing` property today. I usually see it in people's code but I never really knew what it was about until today. When you have a box model, if you use the `width` property an element, the element actually becomes bigger than you intended for it to be. To solve this problem, `box-sizing` was introduced. I know I have encountered this problem many times so getting to understand this concept was awesome today. I used [this]('http://learnlayout.com/box-model.html')  
+2. I learnt about the `box-sizing` property today. I usually see it in people's code but I never really knew what it was about until today. When you have a box model, if you use the `width` property an element, the element actually becomes bigger than you intended for it to be. To solve this problem, `box-sizing` was introduced. I know I have encountered this problem many times so getting to understand this concept was awesome today. I used [this](http://learnlayout.com/box-model.html)  
 **Feeling**: I kind of feel overwhelmed at the numerous things that I do not understand yet. It feels like a herculian task but I will continue going a step at a time, a day at a time. By June, I would really love to access myself and see how far I have come from the beginning of the year. My main objective for this year; **Move from the damn beginner level to Intermediate level**
 
 ##Day 11: January 11 2017
@@ -100,5 +100,19 @@ I have no particular learnings per say. The most important thing today was that 
 
 ##Day 12: January 15 2017
 **Task**: Redo the google mail sign in page with pure HTML and CSS.  
-**Learnings**: Been reading [Ire's Blog]('https://bitsofco.de'). I have learnt alot about meta tags, charset, viewport, css font sizes. So I decided to willingly incorporate what I have learnt from reading the blog into my code. I made use of `rem` units which is better than `em` because it uses the base font that you specified in the `html` tag. Its very great for controlling font sizes in responsive modes. I also used `flexbox` to arrange the elements on the page further consolidating my understanding of it. It really is fun and easy to use.
+**Learnings**: Been reading [Ire's Blog](https://bitsofco.de). I have learnt alot about meta tags, charset, viewport, css font sizes. So I decided to willingly incorporate what I have learnt from reading the blog into my code. I made use of `rem` units which is better than `em` because it uses the base font that you specified in the `html` tag. Its very great for controlling font sizes in responsive modes. I also used `flexbox` to arrange the elements on the page further consolidating my understanding of it. It really is fun and easy to use.
 **Feeling**: I feel really good. I want to up my HTML and CSS game and I believe I'm on the right track. It might seem like its trivial but repetition and continuity makes perfect.
+
+## January 16-17 2017
+I was indisposed. I traveled.
+
+##Day 13: January 18 2017
+**Task**: I continued practising my HTML and CSS. I am recreating the GoDaddy Sign In page.
+**Learnings**: I didnt get to finish today but I continued to use practises like `rem`, `flexbox`, html first; creating all the elements then using css to make it beautiful. This might not seem like anything now but I know that I am consciously beefing up my HTML & CSS skills which is a main requirement for being a front-end developer.
+**Feeling**: I was feeling a bit frustrated with positioning some elements on the page but I decided to skip over it and come back to it later. Woah, I have really improved in my touch typing skills. Mad!! I am thinking of doing a 10 day/30 day challenge just doing HTML and CSS recreations. I dont know if 30 days is too much or naa.
+
+## Day 14: January 19-20 2017
+I'll be grouping these two days together because I dont feel like I did enough stuff. I continued on the GoDaddy Sign In page. I actually finished it. Also styled for mobile view. It was tough but damn, it was fun.
+
+## Day 15: January 21 2017
+I continued with my Udemy course on HTML5 and CSS3. Learnt a few new Bracket tricks using `Ctrl + E` on a tag in the html file to seamlessly add CSS rules and using the same `Ctrl + E` on a color to bring up the color picker. I really am enjoying using Brackets for html and css cooding.
