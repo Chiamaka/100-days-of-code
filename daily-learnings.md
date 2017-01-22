@@ -118,37 +118,37 @@ I'll be grouping these two days together because I dont feel like I did enough s
 I continued with my Udemy course on HTML5 and CSS3. Learnt a few new Bracket tricks using `Ctrl + E` on a tag in the html file to seamlessly add CSS rules and using the same `Ctrl + E` on a color to bring up the color picker. I really am enjoying using Brackets for html and css coding.  
 **Learnings**:  
 1. To center a div with CSS, you set the `margin-left` and `margin-right` to `auto`.  
-###Typography  
+### Typography  
 2. Use a `font-size` between 15 and 25 pixels for body text.  
 3. Use really big font sizes for headlines. When using a very big font size, drop the font weight.  
 4. Use line spacing of 120%-150% of the font size.  
 5. 45 to 90 characters per line is optimal and aids reading.  
 6. Use only one font.
-###Colors  
+### Colors  
 1. Use only one base color. Tools: [FlatUIColors](https://flatuicolors.com/), [Different Shades of a color](http://www.0to255.com/)  
 2. Use a tool like [Adobe Color CC](https://color.adobe.com/) if you want to have multiple colors on your site  
 3. Never use the color black.  
 4. Use color to draw attention.  
-###Images  
+### Images  
 1. Overlay the image with a color if both the image and the photo are bright.  
 2. Put text in a box makes texts on images easy to read. The box should be opaque so that the image can still be seen underneath.  
 3. Blur the image underneath the text and make sure the text stays on the blurred part on all text resolutions.  
 4. Floor fade. Here, the images fades to black at the bottom where the text will be.  
-###Icons  
+### Icons  
 1. Use icons to show features of your site/product OR steps to achieve something.  
 2. Use icons for actions and links. Rules to be followed are; Icons should be immediately recognizable & Label the icons.  
 3. Icons should not take center stage in your design. They should instead play a supporting role.  
 4. Use icon fonts i.e Vector icons.  
-###Spacing and layout  
+### Spacing and layout  
 1. Put whitespace between elements, group of elements, website's sections BUT do not exaggerate cos that can lead to a loss of relationship.  
 2. Define Hierarchy => Define where you want your users to look first. Establish a flow that corresponds to the content's message. Use whitespace to build that flow.  
-###User Experience  
+### User Experience  
 UI is the presentation of a product, the look and feel. UX is the overall experience a user has with a product.
 When you see a site you think is beautifully built, ask these 3 questions.  
 1. Why do this site look good?  
 2. What does this have in common with other good looking sites.  
 3. How is it built in HTML & CSS.
-###7 real-world steps to a fully functional site
+### 7 real-world steps to a fully functional site
 1. Define your project  
   * Define the goal of your project eg building your portfolio site  
   * Define your audience eg. Who is the typical user that will visit my site  
