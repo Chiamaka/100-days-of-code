@@ -99,7 +99,7 @@ I have no particular learnings per say. The most important thing today was that 
 **I didnt know anything, I just read but I still wont count it. For this reason, I have decided to deduct a day from my progress which is day 12 and redo it**
 
 ##Day 12: January 15 2017
-**Task**: Redo the google mail sign in page with pure HTML and CSS.  
+**Task**: Redo the google mail sign in page with pure HTML and CSS.  [Here is the code](https://github.com/Chiamaka/HTML-CSS-challenge/tree/master/Google%20SignIn)
 **Learnings**: Been reading [Ire's Blog](https://bitsofco.de). I have learnt alot about meta tags, charset, viewport, css font sizes. So I decided to willingly incorporate what I have learnt from reading the blog into my code. I made use of `rem` units which is better than `em` because it uses the base font that you specified in the `html` tag. Its very great for controlling font sizes in responsive modes. I also used `flexbox` to arrange the elements on the page further consolidating my understanding of it. It really is fun and easy to use.
 **Feeling**: I feel really good. I want to up my HTML and CSS game and I believe I'm on the right track. It might seem like its trivial but repetition and continuity makes perfect.
 
@@ -112,7 +112,67 @@ I was indisposed. I traveled.
 **Feeling**: I was feeling a bit frustrated with positioning some elements on the page but I decided to skip over it and come back to it later. Woah, I have really improved in my touch typing skills. Mad!! I am thinking of doing a 10 day/30 day challenge just doing HTML and CSS recreations. I dont know if 30 days is too much or naa.
 
 ## Day 14: January 19-20 2017
-I'll be grouping these two days together because I dont feel like I did enough stuff. I continued on the GoDaddy Sign In page. I actually finished it. Also styled for mobile view. It was tough but damn, it was fun.
+I'll be grouping these two days together because I dont feel like I did enough stuff. I continued on the GoDaddy Sign In page. I actually finished it. Also styled for mobile view. It was tough but damn, it was fun. [Here is the code](https://github.com/Chiamaka/HTML-CSS-challenge/tree/master/GoDaddy)
 
-## Day 15: January 21 2017
-I continued with my Udemy course on HTML5 and CSS3. Learnt a few new Bracket tricks using `Ctrl + E` on a tag in the html file to seamlessly add CSS rules and using the same `Ctrl + E` on a color to bring up the color picker. I really am enjoying using Brackets for html and css cooding.
+## Day 15-16: January 21-22 2017
+I continued with my Udemy course on HTML5 and CSS3. Learnt a few new Bracket tricks using `Ctrl + E` on a tag in the html file to seamlessly add CSS rules and using the same `Ctrl + E` on a color to bring up the color picker. I really am enjoying using Brackets for html and css coding.  
+**Learnings**:  
+1. To center a div with CSS, you set the `margin-left` and `margin-right` to `auto`.  
+###Typography  
+2. Use a `font-size` between 15 and 25 pixels for body text.  
+3. Use really big font sizes for headlines. When using a very big font size, drop the font weight.  
+4. Use line spacing of 120%-150% of the font size.  
+5. 45 to 90 characters per line is optimal and aids reading.  
+6. Use only one font.
+###Colors  
+1. Use only one base color. Tools: [FlatUIColors](https://flatuicolors.com/), [Different Shades of a color](http://www.0to255.com/)  
+2. Use a tool like [Adobe Color CC](https://color.adobe.com/) if you want to have multiple colors on your site  
+3. Never use the color black.  
+4. Use color to draw attention.  
+###Images  
+1. Overlay the image with a color if both the image and the photo are bright.  
+2. Put text in a box makes texts on images easy to read. The box should be opaque so that the image can still be seen underneath.  
+3. Blur the image underneath the text and make sure the text stays on the blurred part on all text resolutions.  
+4. Floor fade. Here, the images fades to black at the bottom where the text will be.  
+###Icons  
+1. Use icons to show features of your site/product OR steps to achieve something.  
+2. Use icons for actions and links. Rules to be followed are; Icons should be immediately recognizable & Label the icons.  
+3. Icons should not take center stage in your design. They should instead play a supporting role.  
+4. Use icon fonts i.e Vector icons.  
+###Spacing and layout  
+1. Put whitespace between elements, group of elements, website's sections BUT do not exaggerate cos that can lead to a loss of relationship.  
+2. Define Hierarchy => Define where you want your users to look first. Establish a flow that corresponds to the content's message. Use whitespace to build that flow.  
+###User Experience  
+UI is the presentation of a product, the look and feel. UX is the overall experience a user has with a product.
+When you see a site you think is beautifully built, ask these 3 questions.  
+1. Why do this site look good?  
+2. What does this have in common with other good looking sites.  
+3. How is it built in HTML & CSS.
+###7 real-world steps to a fully functional site
+1. Define your project  
+  * Define the goal of your project eg building your portfolio site  
+  * Define your audience eg. Who is the typical user that will visit my site  
+  * Design with your goal in audience in mind  
+2. Plan out everything    
+  * Plan your content carefully: text, images, videos, icons, fonts  
+  * Start thinking about visual hierarchy  
+  * Define the navigation  
+  * Define the site structure if its a bigger project  
+3. Sketch your ideas before you begin designing  
+  * Get inspired and think about your design  
+  * Get the ideas out of your head: sketch your ideas before you start designing  
+  * Make as many sketches as you want but dont waste time trying to make them perfect.
+  * Never start designing without having an idea of what you want to build.  
+4. Design and Develop your website  
+  * Design your site using all the tips and technique mentioned above.  
+  * Do your design in the browser using HTML & CSS.   
+  * Use sketches, content and planning decisions you've made in steps 1, 2, 3.  
+5. Optimization  
+  * Optimize performance: site speed.  
+  * Search engine Optimization(SEO)  
+6. Launch your masterpiece  
+  * All you need is a webserver that will host your website and deliver it to the world.  
+7. Site Maintenance  
+  * Launching is not the end of the journey  
+  * Monitor your users behaviour and make changes to your site if/when necessary  
+  * Update your content regularly: blog  
