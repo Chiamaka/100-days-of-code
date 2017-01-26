@@ -106,7 +106,7 @@ I have no particular learnings per say. The most important thing today was that 
 ## January 16-17 2017
 I was indisposed. I traveled.
 
-##Day 13: January 18 2017
+## Day 13: January 18 2017
 **Task**: I continued practising my HTML and CSS. I am recreating the GoDaddy Sign In page.
 **Learnings**: I didnt get to finish today but I continued to use practises like `rem`, `flexbox`, html first; creating all the elements then using css to make it beautiful. This might not seem like anything now but I know that I am consciously beefing up my HTML & CSS skills which is a main requirement for being a front-end developer.
 **Feeling**: I was feeling a bit frustrated with positioning some elements on the page but I decided to skip over it and come back to it later. Woah, I have really improved in my touch typing skills. Mad!! I am thinking of doing a 10 day/30 day challenge just doing HTML and CSS recreations. I dont know if 30 days is too much or naa.
@@ -183,7 +183,7 @@ When you see a site you think is beautifully built, ask these 3 questions.
   * Monitor your users behaviour and make changes to your site if/when necessary  
   * Update your content regularly: blog  
 
-##Day 17: January 23 2017
+## Day 17: January 23 2017
 **Task**: Started and completed the Instagram Page for the HTML & CSS challenge  
 **Learnings**: Today was actually alot of fun. I started and finished the challenge today. I learnt further about fonts in css. The `rem` factor tho. So, my browser is set to 20px because of my eyes. Reading tiny text affects me. The default font size in almost all broswers is 16px. I have been coding with 16px as my base font not knowing that when you are using `rem`, the `r` means root and that root font comes from the broswers font setting. As a front-end dev, you arent in control of that so I'll try something out now and come back and tell you how it went. BRB...  
 Ok, Im back. What I tried actually worked. So scratch what I said before about you not being in control of the base font. You are. LOL. So why it was rendering different font sizes was because on the root element `html`, I set `font-size: 62.5%`. `font-size:100%` computes to the font-size of your browser. So if the font size of your browser i.e the default font-size is 16px, then `font-size:100% === font-size:16px`. And the same goes for if your browser's font-size is 20px or whatever it is. It will be equal to `font-size:100%`.  
@@ -191,3 +191,19 @@ So, to make your font-sizes the same regardless of whether a user increased thei
 This [article](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984) helped me really understand what was going on with my browser rendering different font-size from what I set.  
 This [code snippet](http://codepen.io/mcnitt/pen/ubjHk?editors=0010) helped me write the JS code to loop through the images on the phone layout infinitely. If you notice, it never stops. The cycling of the images. I think I would write a blog post about that.
 See you tomorrow. Ciao.
+
+## Day 18: January 25 2017
+**Task**: Worked on my HTML & CSS challenge and my Udemy course  
+**Learnings**: I tried to do this really pretty animation I saw on this [site](http://www.feedmusic.com/) where you hover over a square and it turns to a perfect circle but I couldnt accomplish that. I tried using `border-radius` but that didnt work as well so I resorted to asking about it in my slack cohort and amazingly someone came through for me. Thanks girl.  
+I learnt that you might think something is simple until you try it. Talk less, try more.
+
+## Day 19: January 26 2017
+**Task**: Continued with my Udemy course on web design. Found this cool site on [User Onboarding](https://www.useronboard.com) 
+**Learnings**:   
+To put an overlay color on an image, use `background-image: linear-gradient(colorFrom, colorTo), url(photoToUse)`.   
+Use comments to segment your css code for ease of understanding later on.  
+For links, always use the four states; `link, visited, hover, active`.  
+I made use of CSS variables for colors in other to stop repeating stuff.  
+Rule of Thumb: Each webpage should only have one h1 in it.
+I made use of ionicons instead of my usual fontawesome.
+I made use of [0to255](http://www.0to255.com/) to get a darker shade of a color.
