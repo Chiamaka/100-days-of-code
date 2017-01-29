@@ -198,7 +198,7 @@ See you tomorrow. Ciao.
 I learnt that you might think something is simple until you try it. Talk less, try more.
 
 ## Day 19: January 26 2017
-**Task**: Continued with my Udemy course on web design. Found this cool site on [User Onboarding](https://www.useronboard.com) 
+**Task**: Continued with my Udemy course on web design. Found this cool site on [User Onboarding](https://www.useronboard.com)
 **Learnings**:   
 To put an overlay color on an image, use `background-image: linear-gradient(colorFrom, colorTo), url(photoToUse)`.   
 Use comments to segment your css code for ease of understanding later on.  
@@ -207,3 +207,16 @@ I made use of CSS variables for colors in other to stop repeating stuff.
 Rule of Thumb: Each webpage should only have one h1 in it.
 I made use of ionicons instead of my usual fontawesome.
 I made use of [0to255](http://www.0to255.com/) to get a darker shade of a color.
+
+## Day 20: January 28 2017
+**Learnings**:  
+What is the difference between percentage and rem/em?  
+when you want to create something like a tile of images, use an unordered list, figure element too.
+
+## Day 21: January 29 2017
+**Learnings**:  
+Overflow is used when content overflows its container and you want to take care of it.  
+When using a transition on the main element, any pseudo elements associated with the element inherits the transition. If you only put the transition on the pseudo element, the main state i.e the default state wont get the transition effect.  
+Another thought. The transition effect has a starting point and an ending point. The starting point is in the main element while the ending point is in the pseudo element.  
+To make an image darker, make sure that the `background-color` is `black` and then use opacity lower than one on the image. Think of it like this, it goes from black to the image. When the opacity is reduced, it goes lower on the scale. `Scale 0 - 1` 0 being black, the background-color and 1 being the full image.  
+`text-align` doesnt only work for text. It also works for all `inline` or `inline-block` elements.  
