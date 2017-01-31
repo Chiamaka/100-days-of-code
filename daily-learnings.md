@@ -220,3 +220,9 @@ When using a transition on the main element, any pseudo elements associated with
 Another thought. The transition effect has a starting point and an ending point. The starting point is in the main element while the ending point is in the pseudo element.  
 To make an image darker, make sure that the `background-color` is `black` and then use opacity lower than one on the image. Think of it like this, it goes from black to the image. When the opacity is reduced, it goes lower on the scale. `Scale 0 - 1` 0 being black, the background-color and 1 being the full image.  
 `text-align` doesnt only work for text. It also works for all `inline` or `inline-block` elements.  
+
+## Day 22: January 31 2017
+**Learnings**:  
+Learnt more about the before pseudo element. Treat the before and after pseudo elements like they are html elements. They can be styled like any other element in html. Also, I used glyphs, the content of double quotation mark `\201C`.  
+Tip to self; always always always comment your css code. Use comments to segment it according to the different sections in the html file. There is nothing as beautiful as seeing your code segmented properly regardless of its growing size.  
+I learnt about the property `vertical-align:middle` for aligning an image and text. It worked beautifully. The property is applied on the image tho.  
