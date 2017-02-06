@@ -225,4 +225,21 @@ To make an image darker, make sure that the `background-color` is `black` and th
 **Learnings**:  
 Learnt more about the before pseudo element. Treat the before and after pseudo elements like they are html elements. They can be styled like any other element in html. Also, I used glyphs, the content of double quotation mark `\201C`.  
 Tip to self; always always always comment your css code. Use comments to segment it according to the different sections in the html file. There is nothing as beautiful as seeing your code segmented properly regardless of its growing size.  
-I learnt about the property `vertical-align:middle` for aligning an image and text. It worked beautifully. The property is applied on the image tho.  
+I learnt about the property `vertical-align:middle` for aligning an image and text. It worked beautifully. The property is applied on the image tho.
+
+## Day 23: February 1 2017  
+**Task**: Continued my HTML & CSS course  
+
+## Day 24: February 2 2017
+**Task**: Continued my HTML & CSS course  
+
+## Day 25: February 4 2017  
+**Task**: Solved the No repeats challenge on Freecodecamp   
+**Learnings**:  
+It was tough, I wont even lie or sugar coat it. I couldnt solve it on my own so I had to seek help. I goolged it and came unto a YouTube video explaining how he did it. The most important bit I got from his solution was the use of Heap's algorithm in solving the permutation. So what I was supposed to do was, produce all the possible permutations, store it in an array and then use the `filter` method of functional programming to loop through the permutations array and filter according to a regex I created that matches consecutive letters in a string.  
+
+## Day 26: February 5 2017  
+**Task**: Continued my HTML & CSS course   
+**Learnings**:  
+Did new media queries stuff. Getting the hang of responsive design and designing in the browser. I'm really excited. Learnt the different width's for responsive design, created a seperate css file for the queries, using the DevTools to make life and designing easier for me. I absolutely love front end work. No fucking doubt. I kinda have to sleep for work tomorrow.  
+**Side note**: I got a job in the media industry. Tech media. I'm scared and at the same time excited. I was given a chance, never worked in this industry but I am determined to be one of the best out there. I am going to be writing and doing videos which include interviews, product reviews and also startup reviews. It's scary but I will `fake it till I make it`.  
