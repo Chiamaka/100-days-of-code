@@ -243,3 +243,8 @@ It was tough, I wont even lie or sugar coat it. I couldnt solve it on my own so 
 **Learnings**:  
 Did new media queries stuff. Getting the hang of responsive design and designing in the browser. I'm really excited. Learnt the different width's for responsive design, created a seperate css file for the queries, using the DevTools to make life and designing easier for me. I absolutely love front end work. No fucking doubt. I kinda have to sleep for work tomorrow.  
 **Side note**: I got a job in the media industry. Tech media. I'm scared and at the same time excited. I was given a chance, never worked in this industry but I am determined to be one of the best out there. I am going to be writing and doing videos which include interviews, product reviews and also startup reviews. It's scary but I will `fake it till I make it`.  
+
+## Day 27: February 7 2017  
+**Task**: Continued my HTML & CSS course  
+**Learnings**:  
+I continued with media queries. I super excited that i'm beginning to really grasp the concept of it and how it works. I did some of the tweaking on my own without the video. I banged my head against the virtual wall for about 20-30 mins, something was messing up and I didnt know what it was so I paused coding, fired up YouTube and watched a couple of videos on media queries, came back to code and got a little bit of understanding as to what the fuck was going on. It's cool. I don't think I'll be doing the whole 'mobile first design' approach shit for now. I'll stick to desktop-first and then use media queries to make it look awesomely awesome on mobile and tablets.
