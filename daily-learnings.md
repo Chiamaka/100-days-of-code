@@ -248,3 +248,6 @@ Did new media queries stuff. Getting the hang of responsive design and designing
 **Task**: Continued my HTML & CSS course  
 **Learnings**:  
 I continued with media queries. I super excited that i'm beginning to really grasp the concept of it and how it works. I did some of the tweaking on my own without the video. I banged my head against the virtual wall for about 20-30 mins, something was messing up and I didnt know what it was so I paused coding, fired up YouTube and watched a couple of videos on media queries, came back to code and got a little bit of understanding as to what the fuck was going on. It's cool. I don't think I'll be doing the whole 'mobile first design' approach shit for now. I'll stick to desktop-first and then use media queries to make it look awesomely awesome on mobile and tablets.
+
+## Day 28: February 8 2017  
+I didnt learn anything new today. I just continued with what I learnt yesterday.
