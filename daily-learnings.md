@@ -251,3 +251,12 @@ I continued with media queries. I super excited that i'm beginning to really gra
 
 ## Day 28: February 8 2017  
 I didnt learn anything new today. I just continued with what I learnt yesterday.
+
+## Day 29: February 9 2017
+**Task**: Worked on an FCC challenge  
+**Learning**: All I know is I need to rewrite the code. I feel how shitty it was. I wrote it to only pass each individual test provided. So, if a new test was provided, it would probably fail. Disgusting
+
+## Day 30: February 11 2017
+**Task**: Continued my HTML & CSS course  
+**Learnings**: I learnt quite a bit in a short while. For the longest time, I have felt like I didnt know how to build beautiful sites on my own without the help of CSS frameworks like bootstrap so when I saw this Udemy course for $10, I jumped at it.  
+Today, I learnt something I have been wondering about for the longest time. How to create a sticky bar that would appear on scroll. I also learnt how to animate scroll through from section to section on a webpage. I made use of JQuery and a JQuery plugin `waypoint` for the sticky bar appearance. I used CSS to change the logo depending if the `sticky` class (bar) has appeared. Styled the sticky bar too. I am proud of what I learnt today. I'm glad I clocked my 1 hour today although I surpassed an hour tho. 
