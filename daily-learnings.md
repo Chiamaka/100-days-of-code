@@ -263,4 +263,14 @@ Today, I learnt something I have been wondering about for the longest time. How 
 
 ## Day 31: February 16 2017
 **Task**: Continued my HTML & CSS course  
-**Learning**: I learnt how to create a responsive navigation bar with just CSS and JQuery. Very fun. First time in my years of coding that i've done this myself. I'm grateful. Generated favicons as well. 
+**Learning**: I learnt how to create a responsive navigation bar with just CSS and JQuery. Very fun. First time in my years of coding that i've done this myself. I'm grateful. Generated favicons as well.
+
+## Day 32: February 20 2017  
+**Task**: Did a quick HTML & CSS challenge. Vertical menu bar
+**Learning**:
+
+## Day 33: February 21 2017  
+**Task**: Read the Up & Going book in the YDKJS series  
+**Learning**:  
+`NaN` is the only value in JS that does not equal itself.  
+`Polyfill` means to take new features that probably havent been implemented for older broswers and create code that produce the same behaviour as the new feature but will work in older browsers.
